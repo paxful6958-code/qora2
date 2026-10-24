@@ -1,0 +1,16 @@
+:root {
+    /* Color Palette */
+    --color-primary: #00e676;
+    --color-primary-hover: #00c853;
+    --color-secondary: #3b82f6;
+    --color-dark-bg: #0a0e17;
+    --color-card-bg: #131924;
+    --color-border: #1f293d;
+    /* Trading Colors */
+    --color-buy: #10b981;
+    --color-sell: #ef4444;
+    /* Text Colors */
+    --text-primary: #f9fafb;
+    --text-secondary: #9ca3af;
+    --text-muted: #6b7280;
+}
